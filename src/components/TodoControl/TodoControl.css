@@ -1,0 +1,9 @@
+.todo-control-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.todo-control-container button {
+  margin-bottom: 20px;
+}
